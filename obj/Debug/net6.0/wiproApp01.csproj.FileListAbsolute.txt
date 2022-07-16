@@ -1,0 +1,15 @@
+C:\wiproApp01\bin\Debug\net6.0\wiproApp01.exe
+C:\wiproApp01\bin\Debug\net6.0\wiproApp01.deps.json
+C:\wiproApp01\bin\Debug\net6.0\wiproApp01.runtimeconfig.json
+C:\wiproApp01\bin\Debug\net6.0\wiproApp01.dll
+C:\wiproApp01\bin\Debug\net6.0\wiproApp01.pdb
+C:\wiproApp01\obj\Debug\net6.0\wiproApp01.csproj.AssemblyReference.cache
+C:\wiproApp01\obj\Debug\net6.0\wiproApp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\wiproApp01\obj\Debug\net6.0\wiproApp01.AssemblyInfoInputs.cache
+C:\wiproApp01\obj\Debug\net6.0\wiproApp01.AssemblyInfo.cs
+C:\wiproApp01\obj\Debug\net6.0\wiproApp01.csproj.CoreCompileInputs.cache
+C:\wiproApp01\obj\Debug\net6.0\wiproApp01.dll
+C:\wiproApp01\obj\Debug\net6.0\refint\wiproApp01.dll
+C:\wiproApp01\obj\Debug\net6.0\wiproApp01.pdb
+C:\wiproApp01\obj\Debug\net6.0\wiproApp01.genruntimeconfig.cache
+C:\wiproApp01\obj\Debug\net6.0\ref\wiproApp01.dll
